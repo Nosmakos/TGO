@@ -1,1 +1,1 @@
-Explorer.exe fivem://connect/cfx.re/join/rm9djp
+Explorer.exe fivem://connect/94.23.91.188:30120
